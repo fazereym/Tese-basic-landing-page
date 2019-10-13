@@ -1,5 +1,5 @@
 ## Tese / Landing Page
-#### documentation https://mrrey-portfolio.000webhostapp.com/
+#### preview https://mrrey-portfolio.000webhostapp.com/
 This is my first Template that Created by me **Rey Muhamad** also known as **fazereym** 
 
 You can use it if you like my work.
